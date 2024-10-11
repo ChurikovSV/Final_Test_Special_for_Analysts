@@ -1,6 +1,7 @@
 import math
 from statsmodels.stats.power import zt_ind_solve_power
 
+
 # Текущая конверсия и ожидаемое улучшение
 p1 = 0.05
 p2 = 0.052

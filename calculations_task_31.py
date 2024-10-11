@@ -1,6 +1,7 @@
 import scipy.stats as stats
 import numpy as np
 
+
 # Данные о конверсиях
 conversions = np.array([25000, 30000, 32000])
 total_users = 40000 * 3  # общее количество пользователей
